@@ -1,0 +1,13 @@
+------------------------------------------------------------
+Client connecting to 10.0.5.2, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 1121.52 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.0.0.2 port 52776 connected with 10.0.5.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-20.0048 sec  25.0 MBytes  10.5 Mbits/sec
+[  1] Sent 17828 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-20.6106 sec  15.1 MBytes  6.13 Mbits/sec   6.116 ms 7091/17827 (40%)
+[  1] 0.0000-20.6106 sec  75 datagrams received out-of-order

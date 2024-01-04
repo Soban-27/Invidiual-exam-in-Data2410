@@ -1,0 +1,10 @@
+Simpleperf client connecting to server 127.0.0.1, port 8088
+---------------------------------------------
+ID                        Interval   Transfer        Bandwidth
+Simpleperf client connecting to server 127.0.0.1, port 8088
+---------------------------------------------
+ID                        Interval   Transfer        Bandwidth
+------------------------------------------------------------
+10.0.0.2:45342            0-25.0     22.0 MB         6.76 Mbps
+------------------------------------------------------------
+10.0.0.2:45356            0-25.0     13.5 MB         4.21 Mbps
